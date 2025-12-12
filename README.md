@@ -43,6 +43,14 @@ FDA Adverse Event Reporting System (FAERS)
 - **OUTC:** Patient outcomes (Death, Hospitalization)
 - **INDI:** Drug indications
 
+### Dataset Download
+
+The dataset PKL files are stored in Google Drive due to GitHub file-size limits.
+
+**Google Drive Folder (contains both .pkl files):**  
+https://drive.google.com/drive/folders/1nw8a2Gx1Rc_u1cnl3OLwqlA-yDBI0znQ?usp=sharing
+
+
 ### Final Dataset
 ```python
 Shape: (2,847,862 cases × 19 features)

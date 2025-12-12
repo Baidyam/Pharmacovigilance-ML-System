@@ -62,6 +62,26 @@ Key Features:
 - reaction_severity
 - is_serious_outcome
 ```
+## Project Files Description
+
+- **final_merged_all_7quarters.pkl**  
+  Contains the fully processed and merged dataset combining all 7 quarterly files.
+
+- **final_dataset.pkl**  
+  Model-ready version of the dataset after preprocessing the merged quarterly data.
+
+- **association_rules_output.csv**  
+  Contains all 1900 association rules generated in Sample 1 using the FP-Growth algorithm.
+
+- **Quarter_preprocessing.ipynb**  
+  Notebook containing the code to process all 7 zipped quarterly datasets and merge them into a single file.
+
+- **Final_dataset_preprocessing.ipynb**  
+  Notebook with preprocessing steps applied to the merged dataset to transform it into a model-ready version.
+
+- **DMT_models_output.ipynb**  
+  Notebook where FP-Growth, clustering, and dimension-reduction models were executed to derive insights from the data.
+
 
 ## Methodology
 

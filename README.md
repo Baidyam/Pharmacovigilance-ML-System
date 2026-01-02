@@ -222,16 +222,14 @@ seaborn==0.12.2
 3. **Causal Inference:** Propensity score matching to distinguish true drug effects
 
 ## License
-This project is for educational purposes under CS 6220: Data Mining course.
+This project is for educational purposes.
 
 ## Acknowledgments
 - FDA for maintaining the public FAERS database
-- CS 6220 teaching team for guidance on unsupervised learning techniques
 
 ## Contact
 For questions or collaboration, please open an issue or contact the team members through the GitHub repository or email us:
   - baidya.m@northeastern.edu
-  - patel.nidhi@northeastern.edu
 
 ---
 **Note:** This project demonstrates the application of unsupervised learning techniques for drug safety analysis. All findings should be validated by medical professionals before clinical application.
